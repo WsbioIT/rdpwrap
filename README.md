@@ -128,7 +128,7 @@ It's recommended to have original termsrv.dll file with the RDP Wrapper installa
 
 > Where can I download the installer or binaries?
 
-In the [GitHub Releases](https://github.com/stascorp/rdpwrap/releases) section.
+In the [GitHub Releases](https://github.com/drdrrae/rdpwrap/releases) section.
 
 > Is it legal to use this application?
 
@@ -140,7 +140,7 @@ Yes, it works in online mode by default. You may disable it by removing `-o` fla
 
 > What is online install mode?
 
-Online install mode introduced in version 1.6.1. When you installing RDP Wrapper first time using this mode, it will download [latest INI file](https://github.com/stascorp/rdpwrap/blob/master/res/rdpwrap.ini) from GitHub. See [this discussion](https://github.com/stascorp/rdpwrap/issues/132).
+Online install mode introduced in version 1.6.1. When you installing RDP Wrapper first time using this mode, it will download [latest INI file](https://github.com/drdrrae/rdpwrap/blob/master/res/rdpwrap.ini) from GitHub. See [this discussion](https://github.com/stascorp/rdpwrap/issues/132).
 
 > What is INI file and why we need it?
 
