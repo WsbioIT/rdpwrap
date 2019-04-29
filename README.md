@@ -1,11 +1,20 @@
 # RDP Wrapper Library by Stas'M
 
-[![Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/rdpwrap)
+---
+---
+
+## Important!
+
+I will **_attempt_** to keep the rdpwrap.ini file updated as offsets are found for newer versions.  I will not, however, resolve any bugs or add additional features to the code.
+
+---
+---
+
 ![Environment](https://img.shields.io/badge/Windows-Vista,%207,%208,%2010-brightgreen.svg)
-[![Release](https://img.shields.io/github/release/stascorp/rdpwrap.svg)](https://github.com/stascorp/rdpwrap/releases)
-![License](https://img.shields.io/github/license/stascorp/rdpwrap.svg)
-![Downloads](https://img.shields.io/github/downloads/stascorp/rdpwrap/latest/total.svg)
-![TotalDownloads](https://img.shields.io/github/downloads/stascorp/rdpwrap/total.svg)
+[![Release](https://img.shields.io/github/release/drdrrae/rdpwrap.svg)](https://github.com/drdrrae/rdpwrap/releases)
+![License](https://img.shields.io/github/license/drdrrae/rdpwrap.svg)
+![Downloads](https://img.shields.io/github/downloads/drdrrae/rdpwrap/latest/total.svg)
+![TotalDownloads](https://img.shields.io/github/downloads/drdrrae/rdpwrap/total.svg)
 
 The goal of this project is to enable Remote Desktop Host support and concurrent RDP sessions on reduced functionality systems for home usage.
 
