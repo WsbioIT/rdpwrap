@@ -189,6 +189,7 @@ Source code changelog (rdpwrap library):
 
 2019.08.21
 - added support for termsrv.dll 10.0.18362.267
+- added autoupdate.bat from asmtron
 
 2019.07.10
 - added x86 support for termsrv.dll 10.0.18362.1
