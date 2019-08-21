@@ -15,7 +15,7 @@ Terminal Services supported versions
 6.0.6002.18005   (Windows Vista SP2)                            [policy hook + extended patch]
 6.0.6002.22269   (Windows Vista SP2 with KB977541)              [todo]
 6.0.6002.22340   (Windows Vista SP2 with KB970911)              [todo]
-6.0.6002.22515   (Windows Vista SP2 with KB2381675)             [todo]
+6.0.6002.22515   (Windows Vista SP2 with KB2381675)             [policy hook + extended patch]
 6.0.6002.22641   (Windows Vista SP2 with KB2523307)             [todo]
 6.0.6002.22790   (Windows Vista SP2 with KB2672601)             [todo]
 6.0.6002.19214   (Windows Vista SP2 with KB3003743 GDR)         [policy hook + extended patch]
@@ -194,6 +194,7 @@ Source code changelog (rdpwrap library):
 - added support for 6.0.6001.22323
 - added support for 6.0.6001.22357
 - added support for 6.0.6001.22801
+- added support for 6.0.6002.22515
 
 2019.07.10
 - added x86 support for termsrv.dll 10.0.18362.1
