@@ -29,7 +29,7 @@ Terminal Services supported versions
 6.1.7600.21085   (Windows 7 with KB951422 v2)                   [todo]
 6.1.7600.20890   (Windows 7 with KB2479710)                     [policy hook + extended patch]
 6.1.7600.21316   (Windows 7 with KB2750090)                     [policy hook + extended patch]
-6.1.7600.21420   (Windows 7 with KB2800789)                     [todo]
+6.1.7600.21420   (Windows 7 with KB2800789)                     [policy hook + extended patch]
 6.1.7601.17514   (Windows 7 SP1)                                [policy hook + extended patch]
 6.1.7601.21855   (Windows 7 SP1 with KB951422 v2)               [todo]
 6.1.7601.21650   (Windows 7 SP1 with KB2479710)                 [policy hook + extended patch]
@@ -198,6 +198,7 @@ Source code changelog (rdpwrap library):
 - added support for 6.0.6002.22641
 - added support for 6.0.6002.22790
 - added support for 6.1.7600.20621
+- added support for 6.1.7600.21420
 
 2019.07.10
 - added x86 support for termsrv.dll 10.0.18362.1
