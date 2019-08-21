@@ -180,8 +180,8 @@ Terminal Services supported versions
 10.0.17763.292   (Windows 10 1809 KB  unknown  )                [init hook + extended patch] (untested)
 10.0.17763.379   (Windows 10 1809 KB4489899)                    [init hook + extended patch] (untested)
 10.0.17763.437   (Windows 10 1809 KB4493509)                    [init hook + extended patch] (untested)
-10.0.18362.1     (Windows 10 1903 Preview)                      [init hook + extended patch] (64 bit only) (untested)
-10.0.18362.53    (Windows 10 1903)                              [init hook + extended patch] (64 bit only) (untested)
+10.0.18362.1     (Windows 10 1903 Preview)                      [init hook + extended patch] (untested)
+10.0.18362.53    (Windows 10 1903)                              [init hook + extended patch] (untested)
 10.0.18362.267    (Windows 10 1903)                              [init hook + extended patch] (untested)
 10.0.18908.1000  (Windows 10 Insider Preview Build 18908)       [init hook + extended patch] (64 bit only) (untested)
 
