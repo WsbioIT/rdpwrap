@@ -63,6 +63,7 @@ Terminal Services supported versions
 6.3.9600.18928   (Windows 8.1 with KB4088876)                   [init hook + extended patch]
 6.3.9600.19093   (Windows 8.1 with KB4343891)                   [init hook + extended patch]
 6.3.9600.19318   (Windows 8.1 with KB4493446)                   [init hook + extended patch] (untested)
+6.3.9600.19628   (Windows 8.1 with KB4537821)                   [init hook + extended patch] (untested) (x64 only)
 6.4.9841.0       (Windows 10 Technical Preview)                 [init hook + extended patch]
 6.4.9860.0       (Windows 10 Technical Preview UP1)             [init hook + extended patch]
 6.4.9879.0       (Windows 10 Technical Preview UP2)             [init hook + extended patch]
@@ -103,6 +104,9 @@ Terminal Services supported versions
 10.0.14393.2457  (Windows 10 rs1_release_inmarket.180822-1743)  [init hook + extended patch]
 10.0.14393.2608  (Windows 10)                                   [init hook + extended patch] (x86 only)
 10.0.14393.2906  (Windows 10 1607 KB4493470)                    [init hook + extended patch] (untested)
+10.0.14393.3383  (Windows 10 1607 KB4530689)                    [init hook + extended patch] (untested)
+10.0.14393.3471  (Windows 10 1607 KB4534307)                    [init hook + extended patch] (untested)
+10.0.14393.3503  (Windows 10 1607 KB4537764)                    [init hook + extended patch] (untested)
 10.0.14901.1000  (Windows 10 rs_prerelease.160805-1700)         [init hook + extended patch]
 10.0.14905.1000  (Windows 10 rs_prerelease.160811-1739)         [init hook + extended patch]
 10.0.14915.1000  (Windows 10 rs_prerelease.160826-1902)         [init hook + extended patch]
@@ -174,6 +178,7 @@ Terminal Services supported versions
 10.0.17134.1     (Windows 10 WinBuild.160101.0800)              [init hook + extended patch]
 10.0.17134.437   (Windows 10 1803 KB  unknown  )                [init hook + extended patch] (64 bit only) (untested)
 10.0.17134.706   (Windows 10 1803 KB4493464)                    [init hook + extended patch] (untested)
+10.0.17134.1304  (Windows 10 1803 KB4537762)                    [init hook + extended patch] (untested)
 10.0.17723.1000  (Windows 10 WinBuild.160101.0800)              [init hook + extended patch]
 10.0.17763.1     (Windows 10 WinBuild.160101.0800)              [init hook + extended patch]
 10.0.17763.165   (Windows 10 1809 KB  unknown  )                [init hook + extended patch] (64 bit only) (untested)
@@ -185,10 +190,19 @@ Terminal Services supported versions
 10.0.17763.771   (Windows 10 1809 KB4516077)                    [init hook + extended patch] (untested)
 10.0.18362.1     (Windows 10 1903 Preview)                      [init hook + extended patch] (untested)
 10.0.18362.53    (Windows 10 1903)                              [init hook + extended patch] (untested)
-10.0.18362.267    (Windows 10 1903)                              [init hook + extended patch] (untested)
+10.0.18362.267   (Windows 10 1903 KB4505903)                    [init hook + extended patch] (untested)
+10.0.18362.657   (Windows 10 1903 KB4532693)                    [init hook + extended patch] (untested)
 10.0.18908.1000  (Windows 10 Insider Preview Build 18908)       [init hook + extended patch] (64 bit only) (untested)
 
 Source code changelog (rdpwrap library):
+
+2020.04.18
+- added support for 10.0.14393.3383
+- added support for 10.0.14393.3471
+- added support for 10.0.14393.3503
+- added support for 10.0.17134.1304
+- added support for 10.0.18362.657
+- added support for 6.3.9600.19628 (x64 only)
 
 2019.10.25
 - added support for 10.0.17763.771
