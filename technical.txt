@@ -54,6 +54,7 @@ Terminal Services supported versions
 6.2.9200.17048   (Windows 8 with KB2973501 GDR)                 [policy hook + extended patch]
 6.2.9200.21166   (Windows 8 with KB2973501 LDR)                 [policy hook + extended patch]
 6.2.9200.22715   (Windows 8 with KB4493451)                     [policy hook + extended patch] (untested)
+6.2.9200.22977   (Windows 8 with ???)                           [policy hook + extended patch] (untested)
 6.3.9431.0       (Windows 8.1 Preview)                          [init hook + extended patch]
 6.3.9600.16384   (Windows 8.1)                                  [init hook + extended patch]
 6.3.9600.17095   (Windows 8.1 with KB2959626)                   [init hook + extended patch]
@@ -204,6 +205,7 @@ Source code changelog (rdpwrap library):
 - added support for 10.0.17763.1613
 - added support for 10.0.19041.662
 - added support for 10.0.19041.84 x86
+- added support for 6.2.9200.22977 x86
 
 2020.05.21
 - added support for 10.0.18362.836
