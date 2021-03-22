@@ -110,6 +110,7 @@ Terminal Services supported versions
 10.0.14393.3471  (Windows 10 1607 KB4534307)                    [init hook + extended patch] (untested)
 10.0.14393.3503  (Windows 10 1607 KB4537764)                    [init hook + extended patch] (untested)
 10.0.14393.3986  (Windows 10 1607 KB4580346)                    [init hook + extended patch] (untested)
+10.0.14393.4169  (Windows 10 1607 KB4598243)                    [init hook + extended patch] (x64 only) (untested)
 10.0.14901.1000  (Windows 10 rs_prerelease.160805-1700)         [init hook + extended patch]
 10.0.14905.1000  (Windows 10 rs_prerelease.160811-1739)         [init hook + extended patch]
 10.0.14915.1000  (Windows 10 rs_prerelease.160826-1902)         [init hook + extended patch]
@@ -213,6 +214,7 @@ Source code changelog (rdpwrap library):
 - added support for 10.0.19041.746 x64
 - added support for 10.0.17763.1697 x64
 - added support for 10.0.14393.3986
+- added support for 10.0.14393.4169 x64
 
 2020.12.13
 - added support for 10.0.17763.1613
