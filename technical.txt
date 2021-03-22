@@ -218,6 +218,7 @@ Source code changelog (rdpwrap library):
 - added support for 10.0.17763.1613 x86
 - added support for 10.0.18362.1316 x86
 - added support for 10.0.17763.1697 x86
+- added support for 10.0.19041.746 x86
 
 2020.12.13
 - added support for 10.0.17763.1613
