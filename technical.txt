@@ -198,19 +198,31 @@ Terminal Services supported versions
 10.0.17763.1369  (Windows 10 1809 KB4565349)                    [init hook + extended patch] (untested)
 10.0.17763.1613  (Windows 10 1809 KB4592440)                    [init hook + extended patch] (untested)
 10.0.17763.1697  (Windows 10 1809 KB4598230)                    [init hook + extended patch] (untested)
+10.0.17763.1971  (Windows 10 1809 KB5003217)                    [init hook + extended patch] (64 bit only) (untested)
 10.0.18362.1     (Windows 10 1903 Preview)                      [init hook + extended patch] (untested)
 10.0.18362.53    (Windows 10 1903)                              [init hook + extended patch] (untested)
 10.0.18362.267   (Windows 10 1903 KB4505903)                    [init hook + extended patch] (untested)
 10.0.18362.657   (Windows 10 1903 KB4532693)                    [init hook + extended patch] (untested)
 10.0.18362.836   (Windows 10 1903 KB4556799)                    [init hook + extended patch] (untested)
 10.0.18362.1316  (Windows 10 1903 KB4598229)                    [init hook + extended patch] (untested)
-10.0.18908.1000  (Windows 10 Insider Preview Build 18908)       [init hook + extended patch] (64 bit only) (untested)
+10.0.18362.1533  (Windows 10 1909 KB5001396)                    [init hook + extended patch] (untested)
 10.0.19041.84    (Windows 10 2004 KB4550936)                    [init hook + extended patch] (untested)
 10.0.19041.662   (Windows 10 20H2 KB4592438)                    [init hook + extended patch] (untested)
 10.0.19041.746   (Windows 10 20H2 KB4598242)                    [init hook + extended patch] (untested)
 10.0.19041.789   (Windows 10 20H2 KB4598291)                    [init hook + extended patch] (untested)
+10.0.19041.962   (Windows 10 20H2 KB5001391)                    [init hook + extended patch] (64 bit only) (untested)
+10.0.19041.1023  (Windows 10 20H2 KB5003214)                    [init hook + extended patch] (64 bit only) (untested)
+10.0.19041.1081  (Windows 10 20H2 KB5003690)                    [init hook + extended patch] (64 bit only) (untested)
 
 Source code changelog (rdpwrap library):
+
+2021.07.18
+- added support for 10.0.19041.962 x64
+- added support for 10.0.19041.1023 x64
+- added support for 10.0.17763.1971 x64
+- added support for 10.0.19041.1081 x64
+- added support for 10.0.18362.1533 x64
+- removed support for 10.0.18908.1000
 
 2021.03.22
 - added support for 10.0.18362.1316 x64
